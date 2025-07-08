@@ -13,8 +13,8 @@ class ABC410_B
             X[i] = int.Parse(line_2[i]);
         }
 
-        int[] box = new int[N];     // 各箱のボール数
-        int[] ans = new int[Q];     // 出力結果
+        int[] box = new int[N];
+        int[] ans = new int[Q];
 
         for (int i = 0; i < Q; i++)
         {
