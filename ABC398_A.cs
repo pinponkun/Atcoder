@@ -1,5 +1,5 @@
 
-class ABC399_A
+class ABC398_A
 {
     static void Main()
     {
