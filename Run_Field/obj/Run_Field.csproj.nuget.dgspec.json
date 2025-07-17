@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/Users/hayashidareki/Atcoder/Run_Field/Run_Field.csproj": {}
+    "/Users/hayashidareki/Documents/Atcoder/Run_Field/Run_Field.csproj": {}
   },
   "projects": {
-    "/Users/hayashidareki/Atcoder/Run_Field/Run_Field.csproj": {
+    "/Users/hayashidareki/Documents/Atcoder/Run_Field/Run_Field.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/hayashidareki/Atcoder/Run_Field/Run_Field.csproj",
+        "projectUniqueName": "/Users/hayashidareki/Documents/Atcoder/Run_Field/Run_Field.csproj",
         "projectName": "Run_Field",
-        "projectPath": "/Users/hayashidareki/Atcoder/Run_Field/Run_Field.csproj",
+        "projectPath": "/Users/hayashidareki/Documents/Atcoder/Run_Field/Run_Field.csproj",
         "packagesPath": "/Users/hayashidareki/.nuget/packages/",
-        "outputPath": "/Users/hayashidareki/Atcoder/Run_Field/obj/",
+        "outputPath": "/Users/hayashidareki/Documents/Atcoder/Run_Field/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/Users/hayashidareki/.nuget/NuGet/NuGet.Config"
