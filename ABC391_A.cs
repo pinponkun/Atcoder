@@ -1,3 +1,4 @@
+using System.Collections.Generic; // 辞書型
 class ABC391_A
 {
     static void Main()
