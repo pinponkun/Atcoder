@@ -1,6 +1,4 @@
-using System;
-
-class Program
+class ABC417_A
 {
     static void Main()
     {
